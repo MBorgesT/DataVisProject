@@ -1,2 +1,3 @@
 datavis_mysql.tar
 datasets/*.tsv
+datasets/imdb-dump.sql
