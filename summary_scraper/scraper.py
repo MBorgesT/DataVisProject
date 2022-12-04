@@ -23,4 +23,4 @@ if __name__ == '__main__':
         summaries.append(scrap_summary(tconst))
     
     df = pd.DataFrame({'tconst': top_tconsts, 'summary': summaries})
-    df.to_csv('top333_summaries.tsv', sep='\t')
+    df.to_csv('treated_datasets/top333_summaries.tsv', sep='\t')
