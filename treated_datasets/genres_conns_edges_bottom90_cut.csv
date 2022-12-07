@@ -1,0 +1,16 @@
+Id,Source,Target,Weight
+3,Crime,Drama,540
+5,Drama,Crime,540
+10,Comedy,Drama,496
+11,Drama,Comedy,496
+22,Action,Adventure,337
+23,Adventure,Action,337
+7,Drama,Mystery,316
+9,Mystery,Drama,316
+49,Animation,Action,305
+48,Action,Animation,305
+1,Action,Drama,299
+4,Drama,Action,299
+47,Animation,Adventure,292
+46,Adventure,Animation,292
+21,Comedy,Animation,266
